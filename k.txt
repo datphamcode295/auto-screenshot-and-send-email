@@ -1,0 +1,4 @@
+GBPCHFm,EURNOKm,EURNZDm,EURPLNm,EURSGDm,EURZARm
+
+- ham onRsiarray khi nhận cùng 1 array có thể tạo ra lỗi cùng 1 kết quả. nên copy array trước khi 
+- nếu là phép tính với những tham số cũ và biến cũ nó sẽ không thực hiện mà giữ nguyên đáp án lần trước ???
